@@ -1,0 +1,30 @@
+{ "name": "dump2file",
+  "version": "0.1.0",
+  "description": "Write stuff to a file. If that stuff isn't a string or buffer, inspect it. Magic filename patterns.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/dump2file-node/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/dump2file-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/dump2file-node/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "dump2file.js",
+  "scripts": { "test": "nodejs test/all.node.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
